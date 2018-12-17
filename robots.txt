@@ -1,0 +1,4 @@
+Sitemap: http://womenintechto.com/sitemap.xml
+
+User-agent: *
+Allow: /
